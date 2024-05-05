@@ -69,7 +69,7 @@
   "spec": 2,
   "background": {
     "blur": 0,
-    "url": "https://github.com/Scaravia/SpaceTheme/blob/e6ba4f27e601dcf00add9826e67a33657a38dad4/theme_BG/background.jpg",
+    "url": "https://raw.githubusercontent.com/Scaravia/SpaceTheme/main/theme_BG/background.jpg",
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
